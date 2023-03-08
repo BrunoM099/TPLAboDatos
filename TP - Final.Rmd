@@ -16,7 +16,6 @@ Podemos
 
 Carguemos lo necesario para trabajar:
 ```{r}
-setwd("C:/Users/Usuario/BDocuments/Documentos/Facultad/LCD/Labo de datos Verano 2023/V23- Labo de Datos/TP Final") #En casa
 #setwd("C:/Users/Usuario/BDocuments/Documentos/Facultad/LCD/Labo de datos Verano 2023/V23- Labo de Datos/TP Final") #En el labo    
 
 # Leamos el archivo con el que trabajar:
