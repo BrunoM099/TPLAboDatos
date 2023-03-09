@@ -16,7 +16,7 @@ Podemos
 
 Carguemos lo necesario para trabajar:
 ```{r}
-setwd("C:/Users/Usuario/BDocuments/Documentos/Facultad/LCD/Labo de datos Verano 2023/V23- Labo de Datos/TP Final") #En casa
+
 #setwd("C:/Users/Usuario/BDocuments/Documentos/Facultad/LCD/Labo de datos Verano 2023/V23- Labo de Datos/TP Final") #En el labo    
 
 # Leamos el archivo con el que trabajar:
@@ -43,5 +43,3 @@ fire.occurence$Size_class <- as.factor(fire.occurence$Size_class)
   median(tabla.por.año)
 ```
 En este barplot podemos observar que la media y la mediana de las frecuencias se tienen un valor bastante alto; de 1022 y 1080 aproximadamente.
-
-## Podemos analizar las causas de los incendios, quizas hay una particularidad en la region SOA entre 2000 y 2010 a diferencia del otro período.
